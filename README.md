@@ -1,4 +1,4 @@
-![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/65e4257d-845a-43d7-aafc-2956ecae896d)MENTAL HEALTH ANALYSIS ON TWITTER -> every single analysis is present in Twitter_Analytics.ipynb, Twitter_Models.ipynb along with its Output
+MENTAL HEALTH ANALYSIS ON TWITTER -> every single analysis is present in Twitter_Analytics.ipynb, Twitter_Models.ipynb along with its Output
 1) Overall Description of the Project
    
 In the contemporary landscape of social media, where conversations unfold at a rapid pace, understanding the dynamics of mental health discourse has become an imperative task. The prevalence of discussions related to mental health on platforms like Twitter, Reddit serves as both an opportunity and a challenge. The problem at hand revolves around the need to decipher, analyze, and comprehend the intricate layers of user interactions and expressions concerning mental health. This multifaceted exploration is situated at the intersection of computer science and education, driven by the conviction that leveraging data science can offer profound insights into the digital landscape of mental well-being
