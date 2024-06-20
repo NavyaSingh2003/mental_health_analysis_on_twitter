@@ -26,9 +26,9 @@ IV. Naive Bayes Classification
 
 In the heart of my solution approach lies the Naive Bayes classification module. This algorithm became my guiding compass in categorizing users into depressed and non-depressed labels based on their textual expressions. Grounded in probability theory, Naive Bayes provided a robust framework for discerning patterns within online conversations.
 
-V.	Topic Modelling with LDA and Word2Vec
+V.	Topic Modelling with LDA 
 
-The module of topic modeling helps in my exploration, allowing me to discern the latent themes within textual conversations. Leveraging Latent Dirichlet Allocation (LDA) and Word2Vec, I embarked on a journey to uncover the underlying topics discussed by users. This intricate dance with language allowed me not only to categorize users but also to unveil the nuanced triggers and topics that permeate mental health discourse.
+The module of topic modeling helps in my exploration, allowing me to discern the latent themes within textual conversations. Leveraging Latent Dirichlet Allocation (LDA), I embarked on a journey to uncover the underlying topics discussed by users. This intricate dance with language allowed me not only to categorize users but also to unveil the nuanced triggers and topics that permeate mental health discourse.
 
 VI.	Transition from WhatsApp to Twitter
 
