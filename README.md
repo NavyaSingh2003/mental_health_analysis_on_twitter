@@ -63,7 +63,7 @@ Activity period of top Hashtags :
 
 Q: Investigate the temporal aspects of user behavior in the context of the most trending topics.
 
-Ans: In context to our research, we selected a few hashtags closely related to mental health and emotional well being such as autism , #anxiety, #depression etc. and plotted their temporal frequencies .
+Ans: In context to my research, I selected a few hashtags closely related to mental health and emotional well being such as autism , #anxiety, #depression etc. and plotted their temporal frequencies .
 Analysis: a) 0 to 6am #addiction is discussed in significant proportion
 b)	#depression is discussed btw 0 to 6am and peaked at 4pm
 c)	#anxiety during 2 to 5am
@@ -92,24 +92,28 @@ Analysis: Depressed users are found most active during late night and evening wh
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/1df74765-c377-4a48-837b-d01f70d8a536)
 
 Q: Investigate the most active days of the week ?
+
 Analysis: Non Depressed users were found most active during thursday while depressed were found most engaging during weekdays(mon,tue,wed,thurs).
 We can conclude that depressed users are less active when they have some personal and family plans during weekends(fri,sat,sun) .
 
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/f53fedf5-adf9-49a8-b844-5d02457ede97)
 
 Q: How to detect the activeness of depressed and non depressed users along the years ?
+
 Analysis: Non Depressed users were found most active during 2016-17 while depressed were showing some sort of activeness since 2009 and there was a sudden hike in their activeness during 2015 .
 
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/86aca352-1088-4847-9c10-9353da02c899)
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/ea8900a7-d2a3-4475-b22f-52944aa557d0)
 
 Q: Investigate whether online friends are real or fake ?
+
 Analysis: Depressed users come out with more friends than non depressed users. This allows us to conclude that more online friends does not ensure that the person is mentally healthy.
 
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/99b501ae-06a1-4ba3-acd1-7a6ab7bb3189)
 
 Q) Being depressed implies that people won’t follow you ?
-Analysis: We found that depressed people have more followers than non depressed.
+
+Analysis: I found that depressed people have more followers than non depressed.
 ![image](https://github.com/NavyaSingh2003/mental_health_analysis_on_twitter/assets/110404553/14d761e5-0e45-4b8b-81f5-03c887603c4e)
 
 MODELLING
